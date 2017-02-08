@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<Task version="1.4" xmlns="http://schemas.microsoft.com/windows/2004/02/mit/task">
+  <RegistrationInfo>
+    <Date>2016-07-19T20:48:21.7229273</Date>
+    <Author>SYSTEM</Author>
+  </RegistrationInfo>
+  <Triggers>
+    <RegistrationTrigger>
+      <Enabled>true</Enabled>
+    </RegistrationTrigger>
+  </Triggers>
+  <Principals>
+    <Principal id="Author">

